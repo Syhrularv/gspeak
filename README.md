@@ -3,6 +3,6 @@ Google speaking downloader
 
 ```
 $ pkg install python
-$ pip install gtts
+$ python -m pip install gtts
 $ python gspeak.py
 ```
